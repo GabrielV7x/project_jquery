@@ -36,3 +36,30 @@ header h1 {
 #main-menu ul li {
 
 }
+
+.bw{
+  width: 140px;
+  height: 500px;
+  cursor: pointer;
+  background: url("images/bw-image.jpg") no-repeat;
+}
+
+.color{
+  width: 140px;
+  height: 500px;
+  cursor: pointer;
+  background: url("images/color-image.jpg") no-repeat;
+}
+
+#part2 div {
+  background-position: -140px 0;
+}
+#part3 div {
+  background-position: -280px 0;
+}
+#part4 div {
+  background-position: -420px 0;
+}
+#part5 div {
+  background-position: -560px 0;
+}
